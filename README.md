@@ -42,7 +42,7 @@
 
 ## :dart: Sobre ##
 
-Atividades práticas da disciplina Ciência de Dados - CCF425 feitas no ano de 2021. As atividades avaliativas não estão presentes pois eu perdi :c
+Atividades práticas e avaliações da disciplina Ciência de Dados - CCF425 feitas no ano de 2021. 
 
 ## :white_check_mark: Pré requisitos ##
 
